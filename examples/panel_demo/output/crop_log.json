@@ -1,0 +1,72 @@
+{
+  "mode": "panel",
+  "pad": 16,
+  "items": [
+    {
+      "index": 1,
+      "src": "examples\\panel_demo\\input\\panel_00.png",
+      "out": "examples\\panel_demo\\output\\001_panel_00.png",
+      "bbox_trimmed": [
+        67,
+        75,
+        743,
+        486
+      ],
+      "bbox_padded": [
+        51,
+        59,
+        759,
+        489
+      ],
+      "text_origin": 16,
+      "final_size": [
+        708,
+        430
+      ]
+    },
+    {
+      "index": 2,
+      "src": "examples\\panel_demo\\input\\panel_01.png",
+      "out": "examples\\panel_demo\\output\\002_panel_01.png",
+      "bbox_trimmed": [
+        28,
+        15,
+        636,
+        328
+      ],
+      "bbox_padded": [
+        12,
+        0,
+        652,
+        344
+      ],
+      "text_origin": 16,
+      "final_size": [
+        640,
+        344
+      ]
+    },
+    {
+      "index": 3,
+      "src": "examples\\panel_demo\\input\\panel_02.png",
+      "out": "examples\\panel_demo\\output\\003_panel_02.png",
+      "bbox_trimmed": [
+        89,
+        10,
+        817,
+        405
+      ],
+      "bbox_padded": [
+        73,
+        0,
+        833,
+        421
+      ],
+      "text_origin": 16,
+      "final_size": [
+        760,
+        421
+      ]
+    }
+  ]
+}

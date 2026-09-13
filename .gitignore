@@ -1,0 +1,7 @@
+# privacy-sensitive local files
+*.docx
+.mimosa/
+
+# python
+__pycache__/
+*.pyc

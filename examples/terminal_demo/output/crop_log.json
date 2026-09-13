@@ -1,0 +1,116 @@
+{
+  "mode": "terminal",
+  "pad": 16,
+  "items": [
+    {
+      "index": 1,
+      "src": "examples\\terminal_demo\\input\\terminal_00.png",
+      "out": "examples\\terminal_demo\\output\\001_terminal_00.png",
+      "bbox_trimmed": [
+        72,
+        12,
+        357,
+        75
+      ],
+      "bbox_padded": [
+        56,
+        0,
+        373,
+        91
+      ],
+      "text_origin": 16,
+      "final_size": [
+        320,
+        91
+      ]
+    },
+    {
+      "index": 2,
+      "src": "examples\\terminal_demo\\input\\terminal_01.png",
+      "out": "examples\\terminal_demo\\output\\002_terminal_01.png",
+      "bbox_trimmed": [
+        35,
+        38,
+        277,
+        103
+      ],
+      "bbox_padded": [
+        19,
+        22,
+        293,
+        119
+      ],
+      "text_origin": 16,
+      "final_size": [
+        320,
+        97
+      ]
+    },
+    {
+      "index": 3,
+      "src": "examples\\terminal_demo\\input\\terminal_02.png",
+      "out": "examples\\terminal_demo\\output\\003_terminal_02.png",
+      "bbox_trimmed": [
+        14,
+        39,
+        288,
+        191
+      ],
+      "bbox_padded": [
+        0,
+        23,
+        304,
+        207
+      ],
+      "text_origin": 14,
+      "final_size": [
+        320,
+        184
+      ]
+    },
+    {
+      "index": 4,
+      "src": "examples\\terminal_demo\\input\\terminal_03.png",
+      "out": "examples\\terminal_demo\\output\\004_terminal_03.png",
+      "bbox_trimmed": [
+        67,
+        23,
+        352,
+        87
+      ],
+      "bbox_padded": [
+        51,
+        7,
+        368,
+        103
+      ],
+      "text_origin": 16,
+      "final_size": [
+        320,
+        96
+      ]
+    },
+    {
+      "index": 5,
+      "src": "examples\\terminal_demo\\input\\terminal_04.png",
+      "out": "examples\\terminal_demo\\output\\005_terminal_04.png",
+      "bbox_trimmed": [
+        67,
+        13,
+        329,
+        31
+      ],
+      "bbox_padded": [
+        51,
+        0,
+        345,
+        47
+      ],
+      "text_origin": 16,
+      "final_size": [
+        320,
+        47
+      ]
+    }
+  ]
+}

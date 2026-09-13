@@ -1,0 +1,534 @@
+{
+  "mode": "terminal",
+  "pad": 16,
+  "items": [
+    {
+      "index": 1,
+      "src": "_demo_in\\_env\\环境变量_00.png",
+      "out": "_demo_out\\env_terminal\\001_环境变量_00.png",
+      "bbox_trimmed": [
+        0,
+        7,
+        622,
+        735
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        638,
+        735
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        735
+      ]
+    },
+    {
+      "index": 2,
+      "src": "_demo_in\\_env\\环境变量_01.png",
+      "out": "_demo_out\\env_terminal\\002_环境变量_01.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        528,
+        289
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        528,
+        289
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        289
+      ]
+    },
+    {
+      "index": 3,
+      "src": "_demo_in\\_env\\环境变量_02.png",
+      "out": "_demo_out\\env_terminal\\003_环境变量_02.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        488,
+        139
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        488,
+        139
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        139
+      ]
+    },
+    {
+      "index": 4,
+      "src": "_demo_in\\_env\\环境变量_03.png",
+      "out": "_demo_out\\env_terminal\\004_环境变量_03.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        582,
+        133
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        582,
+        133
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        133
+      ]
+    },
+    {
+      "index": 5,
+      "src": "_demo_in\\_env\\环境变量_04.png",
+      "out": "_demo_out\\env_terminal\\005_环境变量_04.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        636,
+        55
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        636,
+        55
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        55
+      ]
+    },
+    {
+      "index": 6,
+      "src": "_demo_in\\_env\\环境变量_05.png",
+      "out": "_demo_out\\env_terminal\\006_环境变量_05.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        585,
+        493
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        585,
+        493
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        493
+      ]
+    },
+    {
+      "index": 7,
+      "src": "_demo_in\\_env\\环境变量_06.png",
+      "out": "_demo_out\\env_terminal\\007_环境变量_06.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        1369,
+        156
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        1369,
+        156
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        156
+      ]
+    },
+    {
+      "index": 8,
+      "src": "_demo_in\\_env\\环境变量_07.png",
+      "out": "_demo_out\\env_terminal\\008_环境变量_07.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        671,
+        132
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        671,
+        132
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        132
+      ]
+    },
+    {
+      "index": 9,
+      "src": "_demo_in\\_env\\环境变量_08.png",
+      "out": "_demo_out\\env_terminal\\009_环境变量_08.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        328,
+        212
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        328,
+        212
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        212
+      ]
+    },
+    {
+      "index": 10,
+      "src": "_demo_in\\_env\\环境变量_09.png",
+      "out": "_demo_out\\env_terminal\\010_环境变量_09.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        711,
+        154
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        711,
+        154
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        154
+      ]
+    },
+    {
+      "index": 11,
+      "src": "_demo_in\\_env\\环境变量_10.png",
+      "out": "_demo_out\\env_terminal\\011_环境变量_10.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        659,
+        166
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        659,
+        166
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        166
+      ]
+    },
+    {
+      "index": 12,
+      "src": "_demo_in\\_env\\环境变量_11.png",
+      "out": "_demo_out\\env_terminal\\012_环境变量_11.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        1295,
+        236
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        1295,
+        236
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        236
+      ]
+    },
+    {
+      "index": 13,
+      "src": "_demo_in\\_env\\环境变量_12.png",
+      "out": "_demo_out\\env_terminal\\013_环境变量_12.png",
+      "bbox_trimmed": [
+        0,
+        5,
+        441,
+        311
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        457,
+        315
+      ],
+      "text_origin": 1,
+      "final_size": [
+        1372,
+        315
+      ]
+    },
+    {
+      "index": 14,
+      "src": "_demo_in\\_env\\环境变量_13.png",
+      "out": "_demo_out\\env_terminal\\014_环境变量_13.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        1161,
+        494
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        1161,
+        494
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        494
+      ]
+    },
+    {
+      "index": 15,
+      "src": "_demo_in\\_env\\环境变量_14.png",
+      "out": "_demo_out\\env_terminal\\015_环境变量_14.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        327,
+        164
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        327,
+        164
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        164
+      ]
+    },
+    {
+      "index": 16,
+      "src": "_demo_in\\_env\\环境变量_15.png",
+      "out": "_demo_out\\env_terminal\\016_环境变量_15.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        685,
+        55
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        685,
+        55
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        55
+      ]
+    },
+    {
+      "index": 17,
+      "src": "_demo_in\\_env\\环境变量_16.png",
+      "out": "_demo_out\\env_terminal\\017_环境变量_16.png",
+      "bbox_trimmed": [
+        1,
+        4,
+        976,
+        129
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        992,
+        132
+      ],
+      "text_origin": 1,
+      "final_size": [
+        1372,
+        132
+      ]
+    },
+    {
+      "index": 18,
+      "src": "_demo_in\\_env\\环境变量_17.png",
+      "out": "_demo_out\\env_terminal\\018_环境变量_17.png",
+      "bbox_trimmed": [
+        2,
+        5,
+        702,
+        363
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        718,
+        367
+      ],
+      "text_origin": 4,
+      "final_size": [
+        1372,
+        367
+      ]
+    },
+    {
+      "index": 19,
+      "src": "_demo_in\\_env\\环境变量_18.png",
+      "out": "_demo_out\\env_terminal\\019_环境变量_18.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        953,
+        78
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        953,
+        78
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        78
+      ]
+    },
+    {
+      "index": 20,
+      "src": "_demo_in\\_env\\环境变量_19.png",
+      "out": "_demo_out\\env_terminal\\020_环境变量_19.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        955,
+        79
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        955,
+        79
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        79
+      ]
+    },
+    {
+      "index": 21,
+      "src": "_demo_in\\_env\\环境变量_20.png",
+      "out": "_demo_out\\env_terminal\\021_环境变量_20.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        581,
+        268
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        585,
+        268
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        268
+      ]
+    },
+    {
+      "index": 22,
+      "src": "_demo_in\\_env\\环境变量_21.png",
+      "out": "_demo_out\\env_terminal\\022_环境变量_21.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        713,
+        314
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        713,
+        314
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        314
+      ]
+    },
+    {
+      "index": 23,
+      "src": "_demo_in\\_env\\环境变量_22.png",
+      "out": "_demo_out\\env_terminal\\023_环境变量_22.png",
+      "bbox_trimmed": [
+        2,
+        4,
+        702,
+        154
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        714,
+        160
+      ],
+      "text_origin": 5,
+      "final_size": [
+        1372,
+        160
+      ]
+    },
+    {
+      "index": 24,
+      "src": "_demo_in\\_env\\环境变量_23.png",
+      "out": "_demo_out\\env_terminal\\024_环境变量_23.png",
+      "bbox_trimmed": [
+        0,
+        0,
+        971,
+        81
+      ],
+      "bbox_padded": [
+        0,
+        0,
+        971,
+        81
+      ],
+      "text_origin": 0,
+      "final_size": [
+        1372,
+        81
+      ]
+    }
+  ]
+}

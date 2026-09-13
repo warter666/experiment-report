@@ -1,0 +1,63 @@
+# Sample invocations and config snippets for experiment-report.
+
+## A. Terminal sequence
+
+    python scripts/crop_screenshots.py \
+        --input  ./screenshots/arp_session \
+        --output ./cropped/arp_session \
+        --mode terminal \
+        --pad 16
+
+Produces:
+
+    cropped/arp_session/
+        001_step1.png
+        002_step2.png
+        ...
+        preview.html
+        crop_log.json
+
+Open `preview.html` to confirm left edges align.
+
+## B. Browser / GUI panel
+
+    python scripts/crop_screenshots.py \
+        --input  ./screenshots/browser \
+        --output ./cropped/browser \
+        --mode panel \
+        --pad 24 \
+        --max-width 1200
+
+## C. Dark mode terminal — explicit background
+
+    python scripts/crop_screenshots.py \
+        --input  ./screenshots/dark_shell \
+        --output ./cropped/dark_shell \
+        --mode terminal \
+        --bg "#1e1e1e"
+
+## D. Tight threshold for thin text
+
+    python scripts/crop_screenshots.py \
+        --input  ./screenshots/light \
+        --output ./cropped/light \
+        --mode terminal \
+        --threshold 6
+
+## Per-image crop box in crop_log.json
+
+    {
+      "mode": "terminal",
+      "pad": 16,
+      "items": [
+        {
+          "index": 1,
+          "src": ".../01.png",
+          "out": ".../001_01.png",
+          "bbox_trimmed": [120, 200, 1750, 1010],
+          "bbox_padded":  [104, 184, 1766, 1026],
+          "text_origin": 16,
+          "final_size": [1766, 842]
+        }
+      ]
+    }
